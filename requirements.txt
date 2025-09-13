@@ -1,0 +1,4 @@
+grow
+requests
+dotenv
+streamlit
